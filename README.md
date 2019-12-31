@@ -14,4 +14,3 @@
 ### git commit -m '注释'
 ### git push
 
-## 根据进程名称杀进程  
